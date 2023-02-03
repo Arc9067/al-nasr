@@ -15,9 +15,10 @@
 
 ## Website Preview
 
-#### mobile Preview
 
-![alt text](https://github.com/Arc9067/al-nasr/blob/main/img/preview.mp4?raw=true)
+
+
+https://user-images.githubusercontent.com/80489007/216573113-81e908af-141e-43f2-89df-a8a4a0f1b893.mp4
 
 
 
